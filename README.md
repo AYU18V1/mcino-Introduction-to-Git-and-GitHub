@@ -1,4 +1,5 @@
 # Musica - Emotion Based Songs
+Project updated for peer review assignment.
 
 Musica is an emotion-based music recommendation web application.
 
